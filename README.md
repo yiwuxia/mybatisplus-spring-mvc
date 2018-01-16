@@ -71,20 +71,4 @@ Mybatis 增强工具包 - 只做增强不做改变，简化`CRUD`操作
 - [基于Cookie的SSO中间件 Kisso](http://git.oschina.net/baomidou/kisso)
 - [Java快速开发框架 SpringWind](http://git.oschina.net/juapk/SpringWind)
 
-# 期望 | Futures
 
-> 欢迎提出更好的意见，帮助完善 Mybatis-Plus
-
-# 版权 | License
-
-[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-# 捐赠 | Donate
-
-> [捐赠记录,感谢你们的支持！](http://git.oschina.net/baomidou/kisso/wikis/%E6%8D%90%E8%B5%A0%E8%AE%B0%E5%BD%95)
-
-![捐赠 mybatis-plus](http://git.oschina.net/uploads/images/2015/1222/211207_0acab44e_12260.png "支持一下mybatis-plus")
-
-# 关注我 | About Me
-
-![程序员日记](http://git.oschina.net/uploads/images/2016/0121/093728_1bc1658f_12260.png "程序员日记")
